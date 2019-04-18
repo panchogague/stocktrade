@@ -8,12 +8,12 @@
                 </h3>
             </div>
             <div class="card-body">
-                <div class="text-left mb-2">
+                <div class="input-group">
                     <input type="number" class="form-control"
                     placeholder="Quantity">
-                </div>
-                <div class="text-right">
-                    <button class="btn btn-success">Buy</button>
+                    <span class="input-group-addon" style="margin-left:5px">
+                        <button class="btn btn-success">Buy</button>
+                    </span>
                 </div>
             </div>
         </div>
